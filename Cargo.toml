@@ -1,0 +1,11 @@
+[package]
+name = "eh"
+version = "0.1.0"
+license = "MIT/Apache-2.0"
+authors = ["Josh Stone <cuviper@gmail.com>"]
+repository = "https://github.com/cuviper/eh"
+description = "Convert values to `bool`, kind of like C, eh?"
+readme = "README.md"
+keywords = ["bool", "conversion", "truthy"]
+categories = ["no-std"]
+edition = "2018"
