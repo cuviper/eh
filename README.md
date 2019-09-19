@@ -9,7 +9,7 @@ or [C++ to `bool`][C++], but Rust requires an explicit conversion. Integer
 `0`, floating-point `0.0`, and null pointers are `false`, and all other
 values are `true`.
 
-[`Eh`]: trait.Eh.html
+[`Eh`]: https://docs.rs/eh/0.1/eh/trait.Eh.html
 [C]: https://en.cppreference.com/w/c/language/conversion#Boolean_conversion
 [C++]: https://en.cppreference.com/w/cpp/language/implicit_conversion#Boolean_conversions
 
